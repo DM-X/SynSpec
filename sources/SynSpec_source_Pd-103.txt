@@ -1,0 +1,28 @@
+Nuclide ; Pd-103
+Element ; Palladium
+Z ; 46 
+Daughter(s) ; (EC) ; Rh-103; 100
+Qalpha ; 543.1 
+Half-life (d) ; 16.964 ; 
+Half-life (s) ; 1.4657E6 ; 
+Decay constant (1/s) ; 472.92E-9 ; 
+Specific activity (Bq/g) ; 2.7650E15 ;
+Reference ; Lara ; VECC Kolkata - 2011
+Emissions (14 lines) sorted by increasing energy
+----------------------------------------------------------------------------------------------------------
+Energy (keV) 	 Intensity (%) Type 	 Origin*	  Levels  	  Poss. coince (keV) / 
+                                              start end    Poss. sum of (levels)  
+2.865 (-)	     8.73 (23)	 XL 	 Rh-103 	  	  	 
+20.0739 (-)	     22.05 (22)	 XKα2 	 Rh-103 	  	  	 
+20.2163 (-)	     41.7 (4)	 XKα1 	 Rh-103 	  	  	 
+22.8135 (-)	     11.34 (15)	 XK'β1 	 Rh-103 	  	  	 
+23.195 (-)	     1.88 (7)	 XK'β2 	 Rh-103 	  	  	 
+39.756 (6)	     0.0698 (35)	 γ  	 Rh-103 	 1 	 0 	 
+53.285 (15)	     0.0000072 (20)	 γ  	 Rh-103 	 2 	 1 	 
+62.41 (3)	     0.00078 (23)	 γ  	 Rh-103 	 4 	 3 	 
+241.88 (5)	     0.00000049 (5)	 γ  	 Rh-103 	 5 	 3 	 
+294.98 (2)	     0.00297 (24)	 γ  	 Rh-103 	 3 	 0 	 
+317.72 (5)	     0.0000150 (19)	 γ  	 Rh-103 	 4 	 1 	 
+357.45 (8)	     0.0246 (6)	 γ  	 Rh-103 	 4 	 0 	 
+443.80 (2)	     0.0000160 (12)	 γ  	 Rh-103 	 5 	 2 	 
+497.080 (13)     0.00411 (11)	 γ  	 Rh-103 	 5 	 1 

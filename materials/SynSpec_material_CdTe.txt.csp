@@ -1,0 +1,3 @@
+#csp for erg < x0 with 
+#mu=a + b*(x-x0) + c*(x-x0)**2 + d*(x-x0)**3
+#x0 [keV]      a             b             c             d
